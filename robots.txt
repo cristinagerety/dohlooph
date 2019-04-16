@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chohphisho.cascremers.com/sitemap.xml
